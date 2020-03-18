@@ -1,0 +1,5 @@
+fichier autoexec.cfg:
+fichier config.cfg:
+les deux sont a placer dans : 
+...\Steam\SteamApps\Counter-Strike Global Offensive\csgo\cfg
+MISSING MAP: 
